@@ -12,6 +12,7 @@ env:
   DOCKER_IMAGE_NAME: EugenMoser-azure-ttt
   AZURE_WEBAPP_NAME: EugenMoser-ttt-app
   ###############################################
+  
 
 jobs:
   build:
